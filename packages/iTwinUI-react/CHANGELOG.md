@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.39.0](https://www.github.com/iTwin/iTwinUI-react/compare/v1.38.0...v1.39.0) (2022-05-23)
+
+
+### What's new
+
+* **Combobox:** Virtualization ([#539](https://www.github.com/iTwin/iTwinUI-react/issues/539)) ([9e93871](https://www.github.com/iTwin/iTwinUI-react/commit/9e93871c59935a39f6ee1d633d96df04b78f33a1))
+
 ## [1.38.0](https://www.github.com/iTwin/iTwinUI-react/compare/v1.37.3...v1.38.0) (2022-05-23)
 
 ### What's new
